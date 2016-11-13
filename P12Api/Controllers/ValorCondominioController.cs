@@ -29,7 +29,7 @@ namespace P12Api.Controllers
         public void Post([FromBody]ValorCaixa value)
         {
             DataBase db = new DataBase();
-            string update = " update tblValores set Valor = " + value.Valor + "";
+            string update = " update tblValores set Valor = " + value.Valor + "sssss";
 
             db.ExecuteCommand(update);
 
