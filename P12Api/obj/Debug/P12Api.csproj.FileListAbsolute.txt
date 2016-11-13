@@ -1,0 +1,222 @@
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\roslyn\csc.exe
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\roslyn\System.Collections.Immutable.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\roslyn\System.Reflection.Metadata.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\roslyn\vbc.exe
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\roslyn\VBCSCompiler.exe
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\roslyn\VBCSCompiler.exe.config
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\P12Api.dll.config
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\P12Api.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\P12Api.pdb
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\Antlr3.Runtime.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\EntityFramework.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\EntityFramework.SqlServer.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\Microsoft.Owin.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\Microsoft.Owin.Security.Cookies.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\Microsoft.Owin.Security.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\Microsoft.Owin.Security.Facebook.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\Microsoft.Owin.Security.Google.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\Microsoft.Owin.Security.OAuth.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\Microsoft.Owin.Security.Twitter.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\Microsoft.Web.Infrastructure.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\Newtonsoft.Json.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\Owin.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\System.Net.Http.Formatting.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\System.Web.Cors.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\System.Web.Helpers.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\System.Web.Http.Cors.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\System.Web.Http.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\System.Web.Http.Owin.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\System.Web.Http.WebHost.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\System.Web.Mvc.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\System.Web.Optimization.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\System.Web.Razor.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\System.Web.WebPages.Deployment.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\System.Web.WebPages.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\System.Web.WebPages.Razor.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\WebGrease.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\System.Web.Http.Cors.xml
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\Newtonsoft.Json.xml
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\System.Net.Http.Formatting.xml
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\System.Web.Helpers.xml
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\System.Web.Http.xml
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\System.Web.Http.WebHost.xml
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\System.Web.Mvc.xml
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\System.Web.Optimization.xml
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\System.Web.Razor.xml
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\System.Web.WebPages.xml
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\System.Web.WebPages.Deployment.xml
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\System.Web.WebPages.Razor.xml
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\Antlr3.Runtime.pdb
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\EntityFramework.xml
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\EntityFramework.SqlServer.xml
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\Microsoft.Owin.xml
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\Microsoft.Owin.Security.xml
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\Microsoft.Owin.Security.Facebook.xml
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\Microsoft.Owin.Security.Cookies.xml
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\Microsoft.Owin.Security.OAuth.xml
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\Microsoft.Owin.Security.Google.xml
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\Microsoft.Owin.Security.Twitter.xml
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\C#\Use a Cabeça\P12Api\P12Api\bin\System.Web.Http.Owin.xml
+E:\C#\Use a Cabeça\P12Api\P12Api\obj\Debug\P12Api.csprojResolveAssemblyReference.cache
+E:\C#\Use a Cabeça\P12Api\P12Api\obj\Debug\P12Api.dll
+E:\C#\Use a Cabeça\P12Api\P12Api\obj\Debug\P12Api.pdb
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\roslyn\csc.exe
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\roslyn\vbc.exe
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\P12Api.dll.config
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\P12Api.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\P12Api.pdb
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\Antlr3.Runtime.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\EntityFramework.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\EntityFramework.SqlServer.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\Microsoft.Owin.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\Microsoft.Owin.Security.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\Newtonsoft.Json.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\Owin.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\System.Net.Http.Formatting.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\System.Web.Cors.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\System.Web.Helpers.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\System.Web.Http.Cors.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\System.Web.Http.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\System.Web.Http.Owin.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\System.Web.Http.WebHost.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\System.Web.Mvc.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\System.Web.Optimization.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\System.Web.Razor.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\System.Web.WebPages.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\WebGrease.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\System.Web.Http.Cors.xml
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\Newtonsoft.Json.xml
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\System.Net.Http.Formatting.xml
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\System.Web.Helpers.xml
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\System.Web.Http.xml
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\System.Web.Http.WebHost.xml
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\System.Web.Mvc.xml
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\System.Web.Optimization.xml
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\System.Web.Razor.xml
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\System.Web.WebPages.xml
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\Antlr3.Runtime.pdb
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\EntityFramework.xml
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\EntityFramework.SqlServer.xml
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\Microsoft.Owin.xml
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\Microsoft.Owin.Security.xml
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\bin\System.Web.Http.Owin.xml
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\obj\Debug\P12Api.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\obj\Debug\P12Api.dll
+C:\Users\Bruno\Desktop\P12\P12Api\P12Api\obj\Debug\P12Api.pdb
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\roslyn\csc.exe
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\roslyn\vbc.exe
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\P12Api.dll.config
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\P12Api.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\P12Api.pdb
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\Antlr3.Runtime.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\EntityFramework.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\EntityFramework.SqlServer.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\Microsoft.Owin.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\Microsoft.Owin.Security.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\Newtonsoft.Json.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\Owin.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\System.Net.Http.Formatting.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\System.Web.Cors.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\System.Web.Helpers.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\System.Web.Http.Cors.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\System.Web.Http.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\System.Web.Http.Owin.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\System.Web.Http.WebHost.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\System.Web.Mvc.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\System.Web.Optimization.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\System.Web.Razor.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\System.Web.WebPages.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\WebGrease.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\System.Web.Http.Cors.xml
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\Newtonsoft.Json.xml
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\System.Net.Http.Formatting.xml
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\System.Web.Helpers.xml
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\System.Web.Http.xml
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\System.Web.Http.WebHost.xml
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\System.Web.Mvc.xml
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\System.Web.Optimization.xml
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\System.Web.Razor.xml
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\System.Web.WebPages.xml
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\Antlr3.Runtime.pdb
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\EntityFramework.xml
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\EntityFramework.SqlServer.xml
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\Microsoft.Owin.xml
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\Microsoft.Owin.Security.xml
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\bin\System.Web.Http.Owin.xml
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\obj\Debug\P12Api.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\obj\Debug\P12Api.dll
+C:\Users\Bruno\Desktop\P12 Feito Emc\P12Api\P12Api\obj\Debug\P12Api.pdb
