@@ -87,7 +87,7 @@ namespace P12Api.Controllers
             string selectValores = "select Valor from tblValores";
             ds = db.GetDataSet(selectValores);
 
-            decimal valor = (decimal)ds.Tables[0].Rows[0].ItemArray.ElementAt(0);
+            //decimal valor = (decimal)ds.Tables[0].Rows[0].ItemArray.ElementAt(0);
 
             string insertValor = "insert into tblCaixa values(" + idApartamento + ", 50.00)";
             db.ExecuteCommand(insertValor);

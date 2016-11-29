@@ -46,8 +46,10 @@ namespace P12Api.Controllers
             {
                 Login l = new Login();
 
-                l.Email = ds.Tables[0].Rows[0].ItemArray.ElementAt(2).ToString();
+                l.Id = (int)ds.Tables[0].Rows[0].ItemArray.ElementAt(7);
+                l.Email = ds.Tables[0].Rows[0].ItemArray.ElementAt(1).ToString();
                 l.Senha = ds.Tables[0].Rows[0].ItemArray.ElementAt(6).ToString();
+                l.Sindico = (bool)ds.Tables[0].Rows[0].ItemArray.ElementAt(5);
 
                 lstLogin.Add(l);
             }
